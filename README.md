@@ -3,7 +3,7 @@
 # ✦ ✧ ✦ 𝐆𝐑𝐈𝐌𝐎𝐈𝐑𝐄 𝐎𝐅 𝐓𝐇𝐄 𝐀𝐑𝐂𝐀𝐍𝐈𝐒𝐓 ✦ ✧ ✦
 
 <!-- Header Banner: vibe vòm đá cổ tích kết hợp hiệu ứng sóng tím ma thuật -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a0b2e,43196f,1a0b2e&height=220&section=header&text=My name is Gia Thịnh&fontSize=42&fontColor=eed9b7&fontAlignY=45&animation=twinkling" width="100%" alt="Arcane Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a0b2e,43196f,1a0b2e&height=220&section=header&text=My%20name%20is%20Gia%20Thịnh&fontSize=42&fontColor=eed9b7&fontAlignY=45&animation=twinkling" width="100%" alt="Arcane Header"/>
 
 <p align="center">
   <i>"Beyond the veil of syntax lies the ancient rune of execution."</i>
