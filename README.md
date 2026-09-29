@@ -88,7 +88,7 @@ ThinhDost@github
   <br/><br/>
 
   <!-- GitHub Trophies (Theme synced to radical) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ThinhDost&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <!--<img src="https://github-profile-trophy.vercel.app/?username=ThinhDost&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
   <br/><br/>
 
@@ -103,7 +103,7 @@ ThinhDost@github
 
 ---
 
-### 🔝 Top Contributed Repositories
+<!--### 🔝 Top Contributed Repositories
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=ThinhDost&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </div>
