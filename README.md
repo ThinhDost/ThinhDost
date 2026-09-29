@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on Cyber Security as a 2nd year college student<br>👯 I’m looking to collaborate on CloudSec or DevOps<br>🌱 I’m currently learning Cloud fundamentals and Web pentesting<br>⚡ Having a room full of anime figures is the only motivation I having rightnow :sob: :sob:
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75187&center=true&vCenter=true&width=435&lines=2nd+year+CyberSecurity+Student;Always+learn+new+things)](https://git.io/typing-svg)
+<p align="middle">
+  <img src="https://github.com/user-attachments/assets/2ddd7b9a-7652-4bb5-8d83-a259ec92f6dd" width="200" alt="Anime Character" />
+</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/608528256278462497) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onggiathinh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:onggiathinh263.work@gmail.com) 
@@ -21,4 +24,3 @@
 ---
 [![](https://komarev.com/ghpvc/?username=ThinhDost&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
