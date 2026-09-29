@@ -14,13 +14,13 @@
 
   <!-- Socials Badges -->
   <a href="https://discord.com/users/608528256278462497" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="./assets/discord.gif" width="34" height="34" alt="Discord" style="vertical-align: middle; margin-right: 6px;" />
   </a>
   <a href="https://linkedin.com/in/onggiathinh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle; margin-right: 6px;" />
   </a>
   <a href="mailto:onggiathinh263.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="vertical-align: middle;" />
   </a>
 
 </div>
