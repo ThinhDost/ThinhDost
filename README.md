@@ -90,6 +90,15 @@ ThinhDost@github
   <!-- GitHub Trophies (Theme synced to radical) -->
   <img src="https://github-profile-trophy.vercel.app/?username=ThinhDost&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
+  <br/><br/>
+
+  <!-- Snake Contribution Grid Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThinhDost/ThinhDost/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThinhDost/ThinhDost/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ThinhDost/ThinhDost/output/github-contribution-grid-snake.svg" />
+  </picture>
+
 </div>
 
 ---
