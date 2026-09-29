@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Anime GIF Mascot Banner -->
-  <img src="./assets/anime.gif" width="600" alt="Anime Banner" style="max-width: 100%; border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);" />
+  <!-- Profile Banner -->
+  <img src="./assets/github_banner.png" alt="Gia Thinh Ong Banner" width="100%" style="border-radius: 12px; max-width: 100%;" />
 
   <br/><br/>
 
