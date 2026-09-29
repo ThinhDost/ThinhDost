@@ -30,7 +30,7 @@
 ### 💫 About Me
 
 <p>
-<img align="left" src="./assets/light.png" width="200" alt="Light Yagami" style="border-radius: 14px; margin-right: 20px;" />
+<img align="left" src="./assets/miku_pixel.jpg" width="195" alt="Pixel Miku" style="border-radius: 14px; margin-right: 20px;" />
 
 ```yaml
 ThinhDost@github
@@ -49,7 +49,7 @@ ThinhDost@github
 ### 💻 Tech Stack
 
 <p>
-<img align="left" src="./assets/miku_pixel.jpg" width="180" alt="Pixel Miku" style="border-radius: 14px; margin-right: 20px;" />
+<img align="left" src="./assets/light.png" width="180" alt="Light Yagami" style="border-radius: 14px; margin-right: 20px;" />
 
 **Languages & Scripting:**<br/>
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
