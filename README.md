@@ -28,31 +28,46 @@
 <br/>
 
 ### 💫 About Me
-- 🔭 **Focus:** Currently working on **Cyber Security** as a 2nd year college student
-- 👯 **Collaborations:** Looking to collaborate on **CloudSec** or **DevOps**
-- 🌱 **Learning:** Cloud fundamentals, Web pentesting & application security
-- ⚡ **Fun fact:** Having a room full of anime figures is my only motivation right now 🥹✨
+
+<p>
+<img align="left" src="./assets/light.png" width="200" alt="Light Yagami" style="border-radius: 14px; margin-right: 20px;" />
+
+```yaml
+ThinhDost@github
+-------------------------------------------------
+🔭 Focus: 2nd year Cybersecurity Student
+👯 Collaborations: CloudSec & DevOps
+🌱 Learning: Cloud Fundamentals & Web Pentesting
+⚡ Motivation: Room full of anime figures 🥹✨
+```
+</p>
+
+<br clear="both"/>
 
 ---
 
 ### 💻 Tech Stack
 
-<div align="left">
+<p>
+<img align="left" src="./assets/miku_pixel.jpg" width="180" alt="Pixel Miku" style="border-radius: 14px; margin-right: 20px;" />
 
-**Languages & Scripting:**  
+**Languages & Scripting:**<br/>
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-**Databases, Platforms & Tools:**  
+<br/>
+
+**Databases & Tools:**<br/>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+</p>
 
-</div>
+<br clear="both"/>
 
 ---
 
