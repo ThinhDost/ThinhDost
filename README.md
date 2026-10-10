@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Profile Banner -->
-  <img src="./assets/github_banner.png" alt="Gia Thinh Ong Banner" width="100%" style="border-radius: 12px; max-width: 100%;" />
+  <img src="https://i.pinimg.com/1200x/0a/3e/a2/0a3ea2a5d7d915827900bb28b3ca7c1a.jpg" alt="Gia Thinh Ong Banner" width="100%" style="border-radius: 12px; max-width: 100%;" />
 
   <br/><br/>
 
